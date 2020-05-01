@@ -1,0 +1,10 @@
+Commands that I used are:
+git clone <link> : Clone repo located at <link> onto local machine
+git add <file> : Add <file> to the staging area
+git commit -m "<message>" : Commit the staged snapshot and use <message> as the commit message
+git status : See the status of files
+git log : display the entire commit history
+git branch: list all the branches in the repo
+git checkout -b <branch> : Create and check out a new branch named <branch>.
+Drop the -b flag to checkout an existing branch.
+git merge <branch> : Merge <branch> into the existing branch
